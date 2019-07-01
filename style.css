@@ -17,10 +17,19 @@ body {
     text-align: right;
     margin-top: 50px;
 }
+
+#sunset {
+    color: white;
+    text-align: right;
+    margin-bottom: -20px;
+}
+.something h1 {
+    text-align: right;
+}
 .menu a {
     color: white;
+    font-size: 21px;
 }
-
 
 .card img {
     height: 300px;
@@ -43,7 +52,6 @@ body {
     position: absolute;
     bottom: 0;
     left: 0;
-
 }
 .deckofcards img {
     height: 400px;
@@ -60,19 +68,14 @@ body {
     color: white;
 }
 
-#sunset {
-    color: white;
-    text-align: left;
-    margin-bottom: -20px;
-}
+
 
 #contact {
     /* background-color: red; */
 }
 
-
 .editing {
-    text-align: left;
+    text-align: right;
     color: white;
 }
 
@@ -80,23 +83,24 @@ body {
     font-weight: bold;
     color: white;
 }
-
-
-.testies h1 {
+.contact {
+    text-align: right;
+}
+.contact h1 {
     color: white;
 
 }
 
-.testies p {
+.contact p {
     font-weight: bold;
     color: white;
     padding-bottom: 40px;
 }
 
-.testies button {
+.contact button {
     color: white;
     margin-left: -12px;
     margin-bottom: 5px;
-    /* text-align: center; */
+    text-align: center;
 }
 
