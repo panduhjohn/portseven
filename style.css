@@ -7,17 +7,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-
-.container {
-    /* background-color: blueviolet; */
-}
-
 .header {
     color: white;
     text-align: right;
     margin-top: 50px;
 }
-
 #sunset {
     color: white;
     text-align: right;
@@ -30,11 +24,9 @@ body {
     color: white;
     font-size: 21px;
 }
-
 .card img {
     height: 300px;
 }
-
 .deckofcards {
     text-align: left;
     /* vertical-align: text-bottom; */
@@ -56,29 +48,19 @@ body {
 .deckofcards img {
     height: 400px;
 }
-
 .reviews div span {
     font-weight: bolder;
     /* background: none; */
     background-color: white;
     /* font-size: 16px; */
 }
-
 .reviews h1 {
     color: white;
 }
-
-
-
-#contact {
-    /* background-color: red; */
-}
-
 .editing {
     text-align: right;
     color: white;
 }
-
 .editing p {
     font-weight: bold;
     color: white;
@@ -88,15 +70,12 @@ body {
 }
 .contact h1 {
     color: white;
-
 }
-
 .contact p {
     font-weight: bold;
     color: white;
     padding-bottom: 40px;
 }
-
 .contact button {
     color: white;
     margin-left: -12px;
