@@ -15,6 +15,10 @@ body {
 .header {
     color: white;
     text-align: right;
+    margin-top: 50px;
+}
+.menu a {
+    color: white;
 }
 
 
@@ -24,10 +28,21 @@ body {
 
 .deckofcards {
     text-align: right;
-    color: black;
+    color: white;
 }
 .deckofcards img {
     height: 400px;
+}
+
+.reviews div span {
+    font-weight: bolder;
+    /* background: none; */
+    background-color: white;
+    /* font-size: 16px; */
+}
+
+.reviews h1 {
+    color: white;
 }
 
 #sunset {
@@ -38,25 +53,34 @@ body {
 }
 
 #contact {
-    background-color: red;
+    /* background-color: red; */
 }
 
 
 .editing {
+    text-align: left;
     color: white;
-    text-align: center;
 }
 
-#contact p {
+.editing p {
+    font-weight: bold;
     color: white;
+}
+
+
+.testies h1 {
+    color: white;
+
 }
 
 .testies p {
+    font-weight: bold;
     color: white;
+    padding-bottom: 40px;
 }
 
 .testies button {
-    color: orange;
+    color: white;
     margin-left: -12px;
     margin-bottom: 5px;
     /* text-align: center; */
