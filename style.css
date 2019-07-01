@@ -27,8 +27,23 @@ body {
 }
 
 .deckofcards {
-    text-align: right;
+    text-align: left;
+    /* vertical-align: text-bottom; */
+    color: black;
+    font-size: 16px;
+ /* position: absolute;
+    bottom: 0;
+    left: 0; */
+}
+.deckofcards h1 {
     color: white;
+}    
+.deckofcards p {
+    font-size: 26px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
 }
 .deckofcards img {
     height: 400px;
@@ -47,8 +62,7 @@ body {
 
 #sunset {
     color: white;
-    text-align: center;
-    font-size: 60px;
+    text-align: left;
     margin-bottom: -20px;
 }
 
